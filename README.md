@@ -2,7 +2,7 @@
 
 <!-- 简洁打字效果，浅色主题 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter%2C+SF+Pro+Display&weight=600&size=26&duration=3000&pause=1200&color=374151&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+AROCS8-8+%F0%9F%91%8B;AI+Prompt+Engineer;Full-Stack+Developer;Building+things+that+work" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter%2C+SF+Pro+Display&weight=600&size=24&duration=3000&pause=1200&color=374151&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+AROCS8-8+%F0%9F%91%8B;AI+Prompt+Engineer;Full-Stack+Developer;Building+things+that+work" alt="Typing" />
 </a>
 
 <p>
@@ -36,7 +36,7 @@
 [![shuorenhua-workbench](https://github-readme-stats.vercel.app/api/pin/?username=michaelwright10244-bot&repo=shuorenhua-workbench&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111827&icon_color=6366F1&text_color=374151)](https://github.com/michaelwright10244-bot/shuorenhua-workbench)
 [![Media-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=michaelwright10244-bot&repo=Media-Dashboard&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111827&icon_color=F59E0B&text_color=374151)](https://github.com/michaelwright10244-bot/Media-Dashboard)
 [![laojia-3d-courtyard](https://github-readme-stats.vercel.app/api/pin/?username=michaelwright10244-bot&repo=laojia-3d-courtyard&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111827&icon_color=0891B2&text_color=374151)](https://github.com/michaelwright10244-bot/laojia-3d-courtyard)
-[![prompt-assets](https://github-readme-stats.vercel.app/api/pin/?username=michaelwright10244-bot&repo=prompt-assets&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111827&icon_color=10B981&text_color=374151)](https://github.com/michaelwright10244-bot/prompt-assets)
+[![growth-os](https://github-readme-stats.vercel.app/api/pin/?username=michaelwright10244-bot&repo=growth-os&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111827&icon_color=10B981&text_color=374151)](https://github.com/michaelwright10244-bot/growth-os)
 
 </div>
 
