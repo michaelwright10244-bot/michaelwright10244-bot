@@ -1,0 +1,18 @@
+<svg width="800" height="140" viewBox="0 0 800 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 抽象A字几何解构 -->
+  <line x1="340" y1="25" x2="280" y2="115" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="460" y1="25" x2="520" y2="115" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="310" y1="75" x2="490" y2="75" stroke="#6366f1" stroke-width="4" stroke-linecap="round"/>
+  <!-- 几何粒子 -->
+  <circle cx="200" cy="50" r="5" fill="#1a1a1a" opacity="0.6"/>
+  <circle cx="590" cy="60" r="4" fill="#f59e0b" opacity="0.8"/>
+  <rect x="170" y="95" width="10" height="10" rx="1" transform="rotate(45 175 100)" fill="#6366f1" opacity="0.5"/>
+  <circle cx="630" cy="95" r="6" fill="#1a1a1a" opacity="0.15"/>
+  <rect x="560" y="30" width="8" height="8" rx="1" fill="#1a1a1a" opacity="0.35"/>
+  <circle cx="230" cy="105" r="3" fill="#6366f1" opacity="0.4"/>
+  <!-- 两侧装饰线 -->
+  <line x1="80" y1="70" x2="150" y2="70" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
+  <circle cx="60" cy="70" r="4" fill="#1a1a1a" opacity="0.15"/>
+  <line x1="650" y1="70" x2="720" y2="70" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round" opacity="0.2"/>
+  <circle cx="740" cy="70" r="4" fill="#1a1a1a" opacity="0.15"/>
+</svg>
