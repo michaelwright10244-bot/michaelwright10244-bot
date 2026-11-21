@@ -42,40 +42,7 @@
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=py)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Vite](https://skillicons.dev/icons?i=vite)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Three.js](https://skillicons.dev/icons?i=threejs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Git](https://skillicons.dev/icons?i=git)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Markdown](https://skillicons.dev/icons?i=md)
-
-</div>
-
----
-
-## Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=michaelwright10244-bot&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111827&icon_color=6366F1&text_color=374151&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwright10244-bot&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151&langs_count=6" />
-
-</div>
-
----
-
-## 🐍
+## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
